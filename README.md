@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>시간표와 미디어</title>
+</head>
+<body>
+
+    <h1>나의 시간표</h1>
+
+    <table border="1">
+        <tr>
+            <th>교시</th>
+            <th>월</th>
+            <th>화</th>
+            <th>수</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>국어</td>
+            <td>수학</td>
+            <td>영어</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>정보</td>
+            <td>과학</td>
+            <td>체육</td>
+        </tr>
+    </table>
+
+    <h1>동영상</h1>
+
+    <video src="sample.mp4" width="400" controls>
+    </video>
+
+    <h1>소리</h1>
+
+    <audio src="sample.mp3" controls>
+    </audio>
+
+</body>
+</html>
